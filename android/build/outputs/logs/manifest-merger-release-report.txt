@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml:3:11-46
+		INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml:2:1-7:12
+		INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml:2:1-7:12
+		INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml:4:5-72
+	android:name
+		ADDED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml:4:22-69
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml:5:22-68
+uses-sdk
+INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/citymall/tl-app/node_modules/react-native-simple-contacts/android/src/main/AndroidManifest.xml
